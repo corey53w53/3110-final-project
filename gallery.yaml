@@ -1,0 +1,26 @@
+---
+# Members of your group.
+group:
+  - name: Kabir Samsi
+    netid: kas499
+  - name: Corey Wang
+    netid: clw233
+  - name: Lucas Li
+    netid: lyl27
+  - name: Mac Turner
+    netid: mbt52
+# Your PM.
+pm:
+  name: Anoushka Kabra
+  netid: ark258
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pitchy title
+title: "Logic Parser"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/kas499/3110-final-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a logic parser that allows the user to enter in a logical expression, which we will then parse and return the evaluated expression. Both basic and complex features and arithmetic are supported, including sets, automata, and evaluating recursion.
